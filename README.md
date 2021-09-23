@@ -1,4 +1,4 @@
-(Images/180-1806232_spotify-header.png)
+!(Images/180-1806232_spotify-header.png)
 
 # Project-One
 
