@@ -1,6 +1,6 @@
-# Project-One
-Datavisualization project one
+(Images/180-1806232_spotify-header.png)
 
+# Project-One
 
 The following description of the dataset was pulled from: https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021/version/2
 
