@@ -2,26 +2,26 @@
 
 # Project-One
 
-<h3>Project Proposal</h3>
+<h2>Project Proposal</h2>
 
-<h2>Team Members</h2>
-Meme Guerrini
-Jon Wood
+<h3>Team Members</h3>
+<div>Meme Guerrini</div>
+<div>Jon Wood</div>
 
-<h2>Project Scope</h2>
+<h3>Project Scope</h3>
 <p>What makes a popular song popular? We will explore a data set from spotify comprised of songs and their popularity along with various meta data about the song to see what (if any) correlations exist between popularity and other aspects of how a song is composed and interprited.</p>
 
-<h2>Data Set</h2>
+<h3>Data Set</h3>
 <p>https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021/version/2</p>
 
-<h2>What we will explore</h2>
+<h3>What we will explore</h3>
 <ul>
 <li>What are the top 10 Genres by utilization (pie chart) and How do genres corelate with popularity?</li>
-<li>What correlations can be identified for populatity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position</li>
-<li></li>
+<li>What correlations can be identified for popularity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position</li>
+<li>Can we infer what metric contributes the most to a songs popularity?</li>
 </ul>
 
-<h2>Tasks</h2>
+<h3>Tasks</h3>
 <ol>
 <li>Agree on scope and identify questions</li>
 <li>Data cleansing</li>
