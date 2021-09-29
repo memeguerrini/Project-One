@@ -9,7 +9,7 @@
 <div>Jon Wood</div>
 
 <h3>Project Scope</h3>
-<p>What makes a popular song popular? We will explore a data set from spotify comprised of songs and their popularity along with various meta data about the song to see what (if any) correlations exist between popularity and other aspects of how a song is composed and interprited.</p>
+<p>What makes a popular song popular on Spotify? We will explore a data set from spotify comprised of songs and their popularity along with various meta data about the song to see what (if any) correlations exist between popularity and other aspects of how a song is composed and interprited.</p>
 
 <h3>Data Set</h3>
 <p>https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021/version/2</p>
@@ -17,7 +17,7 @@
 <h3>What we will explore</h3>
 <ul>
 <li>What are the top 10 Genres by utilization (pie chart) and How do genres corelate with popularity?</li>
-<li>What correlations can be identified for popularity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position</li>
+<li>What correlations can be identified for popularity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position vs. Streams</li>
 <li>Can we infer what metric contributes the most to a songs popularity?</li>
 </ul>
 
