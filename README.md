@@ -23,8 +23,8 @@
 
 <h3>Tasks</h3>
 <ol>
-<li>Agree on scope and identify questions</li>
-<li>Data cleansing</li>
+<li>Agree on scope and identify questions - COMPLETED</li>
+<li>Data cleansing - IN PROGRESS</li>
 <li>Data Analysis - charting/plotting</li>
 <li>Finalize versioning of Data Analysis to present</li>
 <li>Practice presentation</li>
