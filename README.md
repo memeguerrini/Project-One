@@ -17,7 +17,7 @@
 <h3>What we will explore</h3>
 <ul>
 <li>What are the top 10 Genres by utilization (pie chart) and How do genres corelate with popularity?</li>
-<li>What correlations can be identified for popularity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position vs. Streams</li>
+<li>What correlations can be identified for popularity vs. Danceability vs. Energy vs. Valence vs. Number of times Charted vs. Highest Charting Position vs. Streams vs. Tempo</li>
 <li>Can we infer what metric contributes the most to a songs popularity?</li>
 </ul>
 
