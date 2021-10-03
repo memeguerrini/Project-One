@@ -20,7 +20,9 @@ it was really difficult to try and utilize matplotlib chart plotting so we had t
 
 based on the following correlations between popularity and things like tempo, 
 valance (musical positiveness - higher values denote the song sounded happier where as lower values denote the song sounded sad or angry), 
-dancability, energy, we can assert that infact our assumptions were true in that: A song that has a shorter duration, higher tempo, higher valance, higher energy, higher is more popular.
+dancability, energy, we can assert that infact our assumptions were true in that: A song that has a shorter duration, higher tempo, higher valance, higher energy, higher danceability is more popular.
 
 
 Things we could look at further and explore with ML would be to be able to predict: Once an artist has a popular song, are more of that artists songs likely to become popular?
+
+Things to look at further to explore rational would be to look at outliers and compare their data with the majority to see what things stand out (if anything) besides the indicator in question (i.e. Danceability)
