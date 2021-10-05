@@ -21,6 +21,8 @@
 <li>Can we infer what metric contributes the most to a songs popularity?</li>
 </ul>
 
+<p><strong>**NOTE**</strong>The spotify.ipynb file is the one to view and use as it is the final version for this project.</p>
+
 <h3>Tasks</h3>
 <ol>
 <li>Agree on scope and identify questions - COMPLETED</li>
