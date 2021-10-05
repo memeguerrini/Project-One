@@ -29,3 +29,5 @@
 <li>Finalize versioning of Data Analysis to present - COMPLETED</li>
 <li>Practice presentation - ...</li>
 </ol>
+
+<p><strong>**NOTE**</strong> The spotify.ipynb file is the one to view and use as it is the final version for this project.</p>
